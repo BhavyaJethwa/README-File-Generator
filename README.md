@@ -11,6 +11,7 @@ The **GitHub README Generator** is an AI-powered tool that generates professiona
 - Friendly, interactive markdown with emoji for better presentation.
 
 ---
+![Graph](Graph.png) <!-- Replace with an actual screenshot if available -->
 
 ## Table of Contents
 
