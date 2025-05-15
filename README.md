@@ -96,7 +96,7 @@ Generate a README for a given public GitHub repository.
 **Web UI Example:**  
 The app provides a user-friendly text field to enter your repo URL and a button to generate/download the README.
 
-![Screenshot of UI](demo_screenshot.png) <!-- Replace with an actual screenshot if available -->
+![Screenshot of UI](README_Generator.png) <!-- Replace with an actual screenshot if available -->
 
 ---
 
