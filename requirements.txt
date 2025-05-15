@@ -1,0 +1,11 @@
+langchain
+langgraph 
+langchainhub 
+langchain-community
+python-dotenv 
+langchain-openai
+git+https://github.com/PyGithub/PyGithub.git
+gitpython
+streamlit
+fastapi
+uvicorn
