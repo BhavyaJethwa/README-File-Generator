@@ -50,4 +50,4 @@ class RepoRequest(BaseModel):
 async def generate_readme(request: RepoRequest):
     raw_readme = run_langgraph_agent(request.repo_url)
     cleaned_readme = clean_markdown_wrapping(raw_readme)
-    return {"readme": cleaned_readme}
+    return {"readme": cleaned_readme} 
